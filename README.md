@@ -1,6 +1,5 @@
 # CPP_01
 
-CPP_01 est un projet du cursus 42.
 Le but est d’approfondir les bases du **langage C++**, notamment la gestion de la mémoire, les références et les pointeurs sur objets.
 
 ## Compilation
